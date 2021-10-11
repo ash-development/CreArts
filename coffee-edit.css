@@ -44,7 +44,7 @@
 }
 
 .theme-dark {
-  --accent-primary: rgba(214, 188, 167, 1.0);
+  --accent-primary: rgba(71, 53, 51, 1.0);
   --accent-secondary: rgba(231, 205, 184, 1.0);
   --accent-tertiary: rgba(197, 172, 151, 1.0);
   --green-primary: rgba(67, 181, 129);
@@ -63,18 +63,18 @@
   --background-secondary: rgba(62, 44, 43, var(--transparency-secondary));
   --background-tertiary: rgba(53, 36, 34, var(--transparency-tertiary));
   --background-secondary-alt: rgba(53, 36, 34, var(--transparency-tertiary));
-  --background-accent: rgba(214, 188, 167);
+  --background-accent: rgba(71, 53, 51);
   --background-floating: rgba(53, 36, 34, var(--transparency-menu));
   --background-mobile-primary: rgba(71, 53, 51);
   --background-mobile-secondary: rgba(62, 44, 43);
   --background-modifier-hover: rgba(231, 205, 184);
-  --background-modifier-active: rgba(214, 188, 167);
-  --background-modifier-selected: rgba(214, 188, 167);
+  --background-modifier-active: rgba(71, 53, 51);
+  --background-modifier-selected: rgba(71, 53, 51);
   --background-modifier-accent: rgba(71, 53, 51);
-  --background-mentioned: rgba(214, 188, 167, 0.1);
-  --background-mentioned-hover: rgba(214, 188, 167, 0.2);
+  --background-mentioned: rgba(71, 53, 51, 0.1);
+  --background-mentioned-hover: rgba(71, 53, 51, 0.2);
   --background-message-hover: rgba(53, 36, 34, 0.4);
-  --background-help-warning: rgba(214, 188, 167);
+  --background-help-warning: rgba(71, 53, 51);
   --background-help-info: rgba(231, 205, 184);
   --toast-background: rgba(62, 44, 43, var(--transparency-secondary));
   --toast-header: rgba(71, 53, 51, var(--transparency-primary));
@@ -85,13 +85,13 @@
   --header-secondary: rgba(155, 141, 145);
   --text-normal: rgba(210, 195, 199);
   --text-muted: rgba(104, 91, 94);
-  --text-link: rgba(214, 188, 167);
+  --text-link: rgba(71, 53, 51);
   --channels-default: rgba(155, 141, 145);
   --interactive-normal: rgba(210, 195, 199);
   --interactive-hover: rgba(255, 255, 255);
   --interactive-active: rgba(255, 255, 255);
   --interactive-muted: rgba(104, 91, 94);
-  --spotify-color: rgba(214, 188, 167);
+  --spotify-color: rgba(71, 53, 51);
   --scrollbar-thin-thumb: rgba(71, 53, 51);
   --scrollbar-thin-track: rgba(53, 36, 34);
   --scrollbar-auto-thumb: rgba(71, 53, 51);
@@ -115,7 +115,7 @@
   --activity-card-background: var(--background-secondary);
   --textbox-markdown-syntax: rgba(255, 255, 255);
   --selection-text: rgba(255, 255, 255);
-  --selection-background: rgba(214, 188, 167, var(--selection-opacity));
+  --selection-background: rgba(71, 53, 51, var(--selection-opacity));
   --titlebar: rgba(53, 36, 34, var(--transparency-titlebar));
   --background: rgba(71, 53, 51, var(--transparency-background));
   --shadows: 0px 2px 8px 2px rgba(0, 0, 0, var(--shadow-opacity));
@@ -124,7 +124,7 @@
   --highlight-hover: rgba(53, 36, 34, var(--transparency-hover));
   --highlight-active: rgba(53, 36, 34, var(--transparency-active));
   --highlight-selected: rgba(53, 36, 34, var(--transparency-selected));
-  --accent-active: rgba(214, 188, 167, var(--transparency-hover));
+  --accent-active: rgba(71, 53, 51, var(--transparency-hover));
   --accent-hover: rgba(231, 205, 184, var(--transparency-active));
   --accent-selected: rgba(197, 172, 151, var(--transparency-selected));
   --normal-primary: rgba(71, 53, 51);
